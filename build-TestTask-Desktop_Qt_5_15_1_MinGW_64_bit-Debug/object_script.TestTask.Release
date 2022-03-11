@@ -1,0 +1,10 @@
+release/checkboxeditor.o
+release/main.o
+release/mainwindow.o
+release/tabledelegate.o
+release/tablemodel.o
+release/testobjectclass.o
+release/moc_checkboxeditor.o
+release/moc_mainwindow.o
+release/moc_tabledelegate.o
+release/moc_tablemodel.o

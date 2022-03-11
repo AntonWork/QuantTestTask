@@ -1,0 +1,10 @@
+debug/checkboxeditor.o
+debug/main.o
+debug/mainwindow.o
+debug/tabledelegate.o
+debug/tablemodel.o
+debug/testobjectclass.o
+debug/moc_checkboxeditor.o
+debug/moc_mainwindow.o
+debug/moc_tabledelegate.o
+debug/moc_tablemodel.o
